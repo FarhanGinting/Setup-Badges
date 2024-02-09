@@ -1,1 +1,1 @@
-console.log("Hello")
+const pait = "Extraordinaire";
